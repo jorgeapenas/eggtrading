@@ -5,7 +5,6 @@ This software performs numerical routines and produces the figures for the paper
 # Included files
 
 * *eggtrading.ipynb*: an interactive Jupyter notebook that runs all the code necessary to replicate all the figures in the paper.
-* *LICENSE*: MIT License.
 * *README.md*: This file.
 
 # Dependencies
@@ -14,4 +13,4 @@ This software performs numerical routines and produces the figures for the paper
 
 # License
 
-See LICENSE for details.
+CC0.
